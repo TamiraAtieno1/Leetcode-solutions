@@ -28,3 +28,4 @@ word consists of lowercase and uppercase English letters.
 function detectCapitalUse(word) {
     let 
 }
+

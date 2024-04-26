@@ -47,3 +47,9 @@ let haystack = "butsad";
 let needle = "sad"
 
 console.log(strStr(haystack, needle));
+
+
+// let haystack = "sadbutsad";
+// let needle = haystack.substring(0,3);
+
+// console.log(needle)
