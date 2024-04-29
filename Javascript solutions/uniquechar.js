@@ -2,7 +2,7 @@
 /**
  * We can loop through s to check for the non repeating character
  * we can map through all the characters in s and store them somewhere
- * the we can proceed to 
+ * the we can proceed to check the map for any unique characters
  */
 
 function firstUniqueChar(s){
