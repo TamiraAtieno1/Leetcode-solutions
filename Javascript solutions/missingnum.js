@@ -9,21 +9,6 @@
  */
 
 function missingNum(nums){
-    nums.sort(); //arranges number in ascending order
-
-    let missing = nums.length;
-    /**
-     * we loop through the numbers in the sorted array
-     * if statement basically checks if i in the sorted array is not equals to i and if not the number is returned as the output
-     */
-    for (let i = 0; i <= nums.length; i++) {
-        if (nums[i] !== i) {
-            missing = i
-        }
-        
-    }
-
-    return missing;
 
 }
 
