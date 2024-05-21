@@ -32,7 +32,7 @@ function firstUniqueChar(s){
     return -1;
 };
 
-let s = "aabb"
+let s = "leetcode"
 
 console.log(firstUniqueChar(s))
 
